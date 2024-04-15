@@ -1,0 +1,12 @@
+.copyright-container {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.copyright-container p {
+  margin: 0;
+  padding: 10px 0;
+}
